@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/martinkooij/MMM-MyWeather#readme",
   "dependencies": {
-    "rss-parser": "^3.7.0"
+    "rss-parser": "^3.7.0",
+    "request": "^2.88.2"
   }
 }
